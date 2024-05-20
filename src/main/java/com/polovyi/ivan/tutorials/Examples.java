@@ -26,7 +26,8 @@ public class Examples {
         var example1 = new String("string");
         var example2 = "string";
 
-        // var example4; // won't work
+        // var example3; // won't work
+        //var example4 = example4 + 1; // won't work
         // var example5 = null; // won't work
         var example6 = (Integer) null;
 
